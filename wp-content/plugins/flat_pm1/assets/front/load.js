@@ -1,0 +1,1 @@
+function jQueryLoaded(){"function"==typeof flatPM_start&&flatPM_start()}function jQueryLoading(){window.jQuery?jQueryLoaded():setTimeout(()=>{jQueryLoading()},50)}jQueryLoading();
